@@ -1,0 +1,6 @@
+# stylua.toml
+column_width = 120  # Ancho máximo de línea
+line_endings = "Unix"  # LF (Linux/macOS) o "Windows" (CRLF)
+indent_type = "Spaces"  # "Spaces" o "Tabs"
+indent_width = 2  # 2 espacios por indentación
+quote_style = "Auto"  # Comillas dobles/simples automáticas

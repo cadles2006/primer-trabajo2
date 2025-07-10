@@ -1,0 +1,7 @@
+std = "roblox" 
+
+[files]
+ignore = [
+    "Packages/**",  # Ignora todo el contenido
+    "Packages/_Index/**"  # Ignora dependencias de Wally
+]
